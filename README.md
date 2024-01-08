@@ -1,3 +1,3 @@
 # lines-of-action
 
-will
+Lines of Action is a board game much like chess or go. 
